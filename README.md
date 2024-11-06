@@ -1,4 +1,5 @@
-![react-form](https://github.com/user-attachments/assets/5fb3fb5b-f23a-4abd-a877-cbd8397baa7d)
+![Screenshot 2024-11-04 211343](https://github.com/user-attachments/assets/14f88d27-589d-4cdf-b539-7a584ea63830)
+
 FakeApiApp
 This project is a simple React application designed to fetch posts from a fake API and allow users to add new posts locally. The application demonstrates the use of React components, state management, and asynchronous data fetching.
 
